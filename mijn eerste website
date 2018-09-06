@@ -1,0 +1,18 @@
+<html>
+	<head>
+	  <title> AutoShop </title>
+	</head>
+	   <body bgcolor="grey">
+	   <h1> Auto Shop</h1>
+	   <p> Deze website is voor de beste wagens
+	  
+	     <ul>
+		  <li> <h1>Ferrari</h1> </li>
+		  <img src="images/ferrari.jpg" width="300"
+		  <li> <h1>Bmw</h1> </li>
+		  <img src="images/Bmw.jpg" width="300"
+		  <li> <h1>Alfa romeo</h1> </li>
+		  <img src="images/alpha romeo.jfif" width="300"
+		  </ul>
+	   </body>
+</html>
